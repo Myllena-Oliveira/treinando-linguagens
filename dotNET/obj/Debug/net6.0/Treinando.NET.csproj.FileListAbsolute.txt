@@ -1,0 +1,15 @@
+C:\workspace\treinando-linguagens\C# .NET\Treinando.NET\bin\Debug\net6.0\Treinando.NET.exe
+C:\workspace\treinando-linguagens\C# .NET\Treinando.NET\bin\Debug\net6.0\Treinando.NET.deps.json
+C:\workspace\treinando-linguagens\C# .NET\Treinando.NET\bin\Debug\net6.0\Treinando.NET.runtimeconfig.json
+C:\workspace\treinando-linguagens\C# .NET\Treinando.NET\bin\Debug\net6.0\Treinando.NET.dll
+C:\workspace\treinando-linguagens\C# .NET\Treinando.NET\bin\Debug\net6.0\ref\Treinando.NET.dll
+C:\workspace\treinando-linguagens\C# .NET\Treinando.NET\bin\Debug\net6.0\Treinando.NET.pdb
+C:\workspace\treinando-linguagens\C# .NET\Treinando.NET\obj\Debug\net6.0\Treinando.NET.csproj.AssemblyReference.cache
+C:\workspace\treinando-linguagens\C# .NET\Treinando.NET\obj\Debug\net6.0\Treinando.NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\treinando-linguagens\C# .NET\Treinando.NET\obj\Debug\net6.0\Treinando.NET.AssemblyInfoInputs.cache
+C:\workspace\treinando-linguagens\C# .NET\Treinando.NET\obj\Debug\net6.0\Treinando.NET.AssemblyInfo.cs
+C:\workspace\treinando-linguagens\C# .NET\Treinando.NET\obj\Debug\net6.0\Treinando.NET.csproj.CoreCompileInputs.cache
+C:\workspace\treinando-linguagens\C# .NET\Treinando.NET\obj\Debug\net6.0\Treinando.NET.dll
+C:\workspace\treinando-linguagens\C# .NET\Treinando.NET\obj\Debug\net6.0\ref\Treinando.NET.dll
+C:\workspace\treinando-linguagens\C# .NET\Treinando.NET\obj\Debug\net6.0\Treinando.NET.pdb
+C:\workspace\treinando-linguagens\C# .NET\Treinando.NET\obj\Debug\net6.0\Treinando.NET.genruntimeconfig.cache

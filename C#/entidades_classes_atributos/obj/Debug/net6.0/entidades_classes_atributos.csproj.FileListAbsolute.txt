@@ -1,0 +1,15 @@
+C:\workspace\treinando-linguagens\C#\entidades_classes_atributos\obj\Debug\net6.0\entidades_classes_atributos.csproj.AssemblyReference.cache
+C:\workspace\treinando-linguagens\C#\entidades_classes_atributos\obj\Debug\net6.0\entidades_classes_atributos.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\treinando-linguagens\C#\entidades_classes_atributos\obj\Debug\net6.0\entidades_classes_atributos.AssemblyInfoInputs.cache
+C:\workspace\treinando-linguagens\C#\entidades_classes_atributos\obj\Debug\net6.0\entidades_classes_atributos.AssemblyInfo.cs
+C:\workspace\treinando-linguagens\C#\entidades_classes_atributos\obj\Debug\net6.0\entidades_classes_atributos.csproj.CoreCompileInputs.cache
+C:\workspace\treinando-linguagens\C#\entidades_classes_atributos\bin\Debug\net6.0\entidades_classes_atributos.exe
+C:\workspace\treinando-linguagens\C#\entidades_classes_atributos\bin\Debug\net6.0\entidades_classes_atributos.deps.json
+C:\workspace\treinando-linguagens\C#\entidades_classes_atributos\bin\Debug\net6.0\entidades_classes_atributos.runtimeconfig.json
+C:\workspace\treinando-linguagens\C#\entidades_classes_atributos\bin\Debug\net6.0\entidades_classes_atributos.dll
+C:\workspace\treinando-linguagens\C#\entidades_classes_atributos\bin\Debug\net6.0\ref\entidades_classes_atributos.dll
+C:\workspace\treinando-linguagens\C#\entidades_classes_atributos\bin\Debug\net6.0\entidades_classes_atributos.pdb
+C:\workspace\treinando-linguagens\C#\entidades_classes_atributos\obj\Debug\net6.0\entidades_classes_atributos.dll
+C:\workspace\treinando-linguagens\C#\entidades_classes_atributos\obj\Debug\net6.0\ref\entidades_classes_atributos.dll
+C:\workspace\treinando-linguagens\C#\entidades_classes_atributos\obj\Debug\net6.0\entidades_classes_atributos.pdb
+C:\workspace\treinando-linguagens\C#\entidades_classes_atributos\obj\Debug\net6.0\entidades_classes_atributos.genruntimeconfig.cache
